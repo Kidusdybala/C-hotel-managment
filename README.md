@@ -1,12 +1,5 @@
 # HOTEL-MANAGEMENT-SYSTEM
 
-*Streamlined Hospitality Solutions for Modern Hotels*
-
-![Last Commit](https://img.shields.io/github/last-commit/username/HOTEL-MANAGEMENT-SYSTEM)
-![Language Count](https://img.shields.io/github/languages/count/username/HOTEL-MANAGEMENT-SYSTEM)
-![Top Language](https://img.shields.io/github/languages/top/username/HOTEL-MANAGEMENT-SYSTEM)
-![License](https://img.shields.io/github/license/username/HOTEL-MANAGEMENT-SYSTEM)
-
 ---
 
 ## Built With
@@ -89,7 +82,7 @@ sqlcmd -?  # Should show version info
 node -v  # Requires 14+
 ```
 
-Installation
+## Installation
 1. Clone the repository
 ```bash
    git clone https://github.com/kidusdybala/HOTEL-MANAGEMENT-SYSTEM.git
@@ -126,12 +119,12 @@ Database Setup
   ```bash
       dotnet run SeedData
 ```
-Running the Application
+## Running the Application
 Development Mode
 ```bash
 dotnet watch run
 ```
-Contributing
+## Contributing
 Set up development environment
 ```bash
 git checkout -b feature/your-feature
@@ -144,7 +137,7 @@ git commit -m "Implement new feature"
 git push origin feature/your-feature
 ```
 3.pull request
-License
+## License
 ```bash
 MIT License - See LICENSE for full text
 # Quick license summary
